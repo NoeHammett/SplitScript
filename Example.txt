@@ -1,0 +1,85 @@
+Example Input File
+
+66123451,info
+66123452,info
+66123453,info
+66123451,info
+66123453,info
+66123455,info
+66123456,info
+66123451,info
+66123453,info
+66123454,info
+66123455,info
+66123457,info
+66123457,info
+66123457,info
+
+Split the file according the match of the numbers (1-8) 
+And according to specific number of files almost all file should have same value (not exact but also not big difference)
+
+
+Example One:
+Total output files: 4
+
+Output 1
+66123451,info
+66123451,info
+66123451,info
+66123452,info
+
+Output 2
+66123453,info
+66123453,info
+66123453,info
+66123454,info
+ 
+Output 3
+66123455,info
+66123455,info
+66123456,info
+
+Output 4
+66123457,info
+66123457,info
+66123457,info
+
+Example 2:
+Total Ouput Files: 2
+
+Output 1
+66123451,info
+66123451,info
+66123451,info
+66123452,info
+66123453,info
+66123453,info
+66123453,info
+
+Output 2
+66123454,info
+66123455,info
+66123455,info
+66123456,info
+66123457,info
+66123457,info
+66123457,info
+
+Example 3:
+Total Output Files: 1
+
+Output 1
+66123451,info
+66123451,info
+66123451,info
+66123452,info
+66123453,info
+66123453,info
+66123453,info
+66123454,info
+66123455,info
+66123455,info
+66123456,info
+66123457,info
+66123457,info
+66123457,info
