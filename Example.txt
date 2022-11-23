@@ -17,6 +17,7 @@ Example Input File
 
 Split the file according the match of the numbers (1-8) 
 And according to specific number of files almost all file should have same value (not exact but also not big difference)
+Maximun Output Files should be 5
 
 
 Example One:
